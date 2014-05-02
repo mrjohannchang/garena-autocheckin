@@ -3,13 +3,13 @@ AutoCheckIn for Garena
 ----------------------
 Developed on: Autohotkey 1.1.14.04
 Version     : 1.6
-==============================================================
-                  This software is FREEWARE
-                  -------------------------
-If this software works, it was surely written by Chang Yu-heng
-               <http://changyuheng.github.io/>
-       (If it doesn't, I don't know anything about it.)
-==============================================================
+=======================================================================
+                      This software is FREEWARE
+                      -------------------------
+If this software works, it was surely written by Chang Yu-heng (張昱珩)
+                   <http://changyuheng.github.io/>
+           (If it doesn't, I don't know anything about it.)
+=======================================================================
 */
 
 #NoEnv
